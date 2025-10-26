@@ -1,0 +1,837 @@
+INFO - 2024-11-05 05:46:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:46:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 05:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 05:58:22 --> Error: Class "CI_Controller" not found
+[Method: GET, Route: backend/settings]
+in APPPATH\Controllers\Backend\Settings.php on line 3.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('backend/settings', 'GET')
+ 3 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('backend/settings')
+ 4 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('backend/settings')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 05:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:00:49 --> Error: Call to undefined method stdClass::getRow()
+[Method: GET, Route: backend/aboutsetting]
+in APPPATH\Controllers\Backend\AboutSetting.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\AboutSetting->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\AboutSetting))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:06:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:08:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:08:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:08:59 --> Error: Class "CI_Controller" not found
+[Method: GET, Route: backend/settings]
+in APPPATH\Controllers\Backend\Settings.php on line 3.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('backend/settings', 'GET')
+ 3 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('backend/settings')
+ 4 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('backend/settings')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:09:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:09:09 --> Error: Call to a member function result() on array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 4 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:10:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:10:06 --> ErrorException: Attempt to read property "navbar_name" on array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 209.
+ 1 APPPATH\Views\Backend\v_navbar.php(209): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "navbar_name" on array', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 209)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:10:36 --> ErrorException: Attempt to read property "navbar_id" on array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 213.
+ 1 APPPATH\Views\Backend\v_navbar.php(213): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "navbar_id" on array', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 213)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:10:55 --> ErrorException: Attempt to read property "navbar_name" on array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 214.
+ 1 APPPATH\Views\Backend\v_navbar.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "navbar_name" on array', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 214)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:11:12 --> ErrorException: Attempt to read property "navbar_slug" on array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 214.
+ 1 APPPATH\Views\Backend\v_navbar.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "navbar_slug" on array', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 214)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:11:46 --> ErrorException: Attempt to read property "navbar_id" on array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 214.
+ 1 APPPATH\Views\Backend\v_navbar.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "navbar_id" on array', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 214)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:11:48 --> ErrorException: Attempt to read property "navbar_id" on array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 214.
+ 1 APPPATH\Views\Backend\v_navbar.php(214): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "navbar_id" on array', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 214)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:12:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:12:06 --> ErrorException: Undefined property: CodeIgniter\View\View::$db
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 225.
+ 1 APPPATH\Views\Backend\v_navbar.php(225): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$db', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 225)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:18:21 --> ErrorException: Undefined property: CodeIgniter\View\View::$db
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 226.
+ 1 APPPATH\Views\Backend\v_navbar.php(226): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$db', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 226)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:18:36 --> ErrorException: Undefined property: mysqli::$navbar_name
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 APPPATH\Views\Backend\v_navbar.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$navbar_name', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 233)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:19:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:19:18 --> Error: Cannot use object of type mysqli as array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 4 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:19:42 --> ErrorException: Undefined property: mysqli::$navbar_name
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 APPPATH\Views\Backend\v_navbar.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$navbar_name', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 233)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:25:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:25:39 --> Error: Cannot use object of type mysqli as array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 4 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:25:58 --> ErrorException: Undefined property: mysqli::$navbar_name
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 APPPATH\Views\Backend\v_navbar.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$navbar_name', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 233)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+ERROR - 2024-11-05 06:40:11 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\tes\system\Database\MySQLi\Connection.php:187
+Stack trace:
+#0 C:\xampp\htdocs\tes\system\Database\MySQLi\Connection.php(187): mysqli->real_connect('localhost', 'root', '', 'sipbs_db', 3306, '', 0)
+#1 C:\xampp\htdocs\tes\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\tes\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\tes\app\Models\VisitorModel.php(27): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\tes\app\Controllers\Home.php(28): App\Models\VisitorModel->countVisitor()
+#5 C:\xampp\htdocs\tes\system\CodeIgniter.php(903): App\Controllers\Home->__construct()
+#6 C:\xampp\htdocs\tes\system\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+#7 C:\xampp\htdocs\tes\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tes\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tes\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\tes\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 C:\xampp\htdocs\tes\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\tes\system\Database\MySQLi\Connection.php:231
+Stack trace:
+#0 C:\xampp\htdocs\tes\system\Database\BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\tes\system\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\tes\app\Models\VisitorModel.php(27): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#3 C:\xampp\htdocs\tes\app\Controllers\Home.php(28): App\Models\VisitorModel->countVisitor()
+#4 C:\xampp\htdocs\tes\system\CodeIgniter.php(903): App\Controllers\Home->__construct()
+#5 C:\xampp\htdocs\tes\system\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\tes\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\tes\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\tes\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#9 C:\xampp\htdocs\tes\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#10 C:\xampp\htdocs\tes\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2024-11-05 06:40:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 467.
+ 1 SYSTEMPATH\Database\BaseConnection.php(616): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Models\VisitorModel.php(27): CodeIgniter\Database\BaseConnection->query('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()')
+ 3 APPPATH\Controllers\Home.php(28): App\Models\VisitorModel->countVisitor()
+ 4 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:40:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:41:01 --> ErrorException: Undefined property: mysqli::$navbar_name
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 APPPATH\Views\Backend\v_navbar.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$navbar_name', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 233)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:42:44 --> Error: Cannot use object of type mysqli as array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 4 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:44:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:44:27 --> ErrorException: Undefined property: CodeIgniter\View\View::$db
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 225.
+ 1 APPPATH\Views\Backend\v_navbar.php(225): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$db', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 225)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:50:55 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:50:57 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:50:58 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:50:58 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:50:58 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:50:59 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:50:59 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:51:00 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:51:00 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 06:52:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:52:47 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:53:15 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:53:16 --> ErrorException: Undefined variable $data
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 204.
+ 1 APPPATH\Views\Backend\v_navbar.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 204)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(37): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 06:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 06:53:33 --> ErrorException: Undefined property: CodeIgniter\View\View::$db
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 225.
+ 1 APPPATH\Views\Backend\v_navbar.php(225): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$db', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 225)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+ERROR - 2024-11-05 08:49:12 --> mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\tes\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\tes\system\Database\MySQLi\Connection.php(312): mysqli->query('SELECT * FROM t...', 0)
+#1 C:\xampp\htdocs\tes\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM t...')
+#2 C:\xampp\htdocs\tes\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM t...')
+#3 C:\xampp\htdocs\tes\app\Models\VisitorModel.php(27): CodeIgniter\Database\BaseConnection->query('SELECT * FROM t...')
+#4 C:\xampp\htdocs\tes\app\Controllers\Home.php(28): App\Models\VisitorModel->countVisitor()
+#5 C:\xampp\htdocs\tes\system\CodeIgniter.php(903): App\Controllers\Home->__construct()
+#6 C:\xampp\htdocs\tes\system\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+#7 C:\xampp\htdocs\tes\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\tes\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\tes\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\tes\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 C:\xampp\htdocs\tes\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#12 {main}
+CRITICAL - 2024-11-05 08:49:12 --> CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 APPPATH\Models\VisitorModel.php(27): CodeIgniter\Database\BaseConnection->query('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()')
+ 2 APPPATH\Controllers\Home.php(28): App\Models\VisitorModel->countVisitor()
+ 3 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 4 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+CRITICAL - 2024-11-05 08:49:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()')
+ 3 APPPATH\Models\VisitorModel.php(27): CodeIgniter\Database\BaseConnection->query('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()')
+ 4 APPPATH\Controllers\Home.php(28): App\Models\VisitorModel->countVisitor()
+ 5 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 6 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+CRITICAL - 2024-11-05 08:49:12 --> [Caused by] mysqli_sql_exception: MySQL server has gone away
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()')
+ 4 APPPATH\Models\VisitorModel.php(27): CodeIgniter\Database\BaseConnection->query('SELECT * FROM tbl_visitors WHERE visit_ip=\'::1\' AND DATE(visit_date)=CURDATE()')
+ 5 APPPATH\Controllers\Home.php(28): App\Models\VisitorModel->countVisitor()
+ 6 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\Home->__construct()
+ 7 SYSTEMPATH\CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 08:49:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 08:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 08:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 08:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 08:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 08:49:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 08:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 08:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 08:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 08:50:25 --> ErrorException: Undefined property: CodeIgniter\View\View::$db
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 225.
+ 1 APPPATH\Views\Backend\v_navbar.php(225): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$db', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 225)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 09:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 09:09:27 --> ErrorException: Undefined property: mysqli::$navbar_name
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 APPPATH\Views\Backend\v_navbar.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$navbar_name', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 233)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 09:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 09:11:27 --> ErrorException: Undefined property: mysqli::$navbar_name
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 APPPATH\Views\Backend\v_navbar.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$navbar_name', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 233)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 09:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 09:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 09:19:12 --> Error: Cannot use object of type mysqli as array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 4 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 09:19:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 09:19:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 09:20:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 09:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 09:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 09:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 09:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 09:26:34 --> ErrorException: Undefined property: mysqli::$navbar_name
+[Method: GET, Route: Backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 APPPATH\Views\Backend\v_navbar.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$navbar_name', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 233)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 10:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:42:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 10:42:34 --> Error: Cannot use object of type mysqli as array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 4 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 10:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 10:48:36 --> Error: Cannot use object of type mysqli as array
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 234.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 4 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 10:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-11-05 10:49:10 --> ErrorException: Undefined property: mysqli::$navbar_name
+[Method: GET, Route: backend/navbar]
+in APPPATH\Views\Backend\v_navbar.php on line 233.
+ 1 APPPATH\Views\Backend\v_navbar.php(233): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: mysqli::$navbar_name', 'C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php', 233)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tes\\app\\Views\\Backend\\v_navbar.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/v_navbar', [], true)
+ 5 APPPATH\Controllers\Backend\Navbar.php(29): view('Backend/v_navbar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Navbar->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Navbar))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\tes\\public\\index.php')
+INFO - 2024-11-05 10:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 10:50:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-11-05 14:19:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

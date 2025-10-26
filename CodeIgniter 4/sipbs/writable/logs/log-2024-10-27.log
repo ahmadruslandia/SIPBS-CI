@@ -1,0 +1,836 @@
+INFO - 2024-10-27 02:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 02:18:41 --> Error: Call to undefined function kode_oto()
+[Method: GET, Route: Backend/criteria/add]
+in APPPATH\Views\Backend\criteria\v_add.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/v_add', [], true)
+ 4 APPPATH\Controllers\Backend\Criteria.php(45): view('backend/criteria/v_add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->add()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 02:45:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 02:45:02 --> Error: Call to undefined function kode_oto()
+[Method: GET, Route: Backend/criteria/add]
+in APPPATH\Views\Backend\criteria\v_add.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/v_add', [], true)
+ 4 APPPATH\Controllers\Backend\Criteria.php(45): view('backend/criteria/v_add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->add()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 02:47:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 02:47:45 --> Error: Call to undefined function kode_oto()
+[Method: GET, Route: Backend/criteria/add]
+in APPPATH\Views\Backend\criteria\v_add.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/v_add', [], true)
+ 4 APPPATH\Controllers\Backend\Criteria.php(45): view('backend/criteria/v_add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->add()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 02:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 02:55:17 --> Error: Call to undefined function kode_oto()
+[Method: GET, Route: Backend/criteria/add]
+in APPPATH\Views\Backend\criteria\v_add.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/v_add', [], true)
+ 4 APPPATH\Controllers\Backend\Criteria.php(45): view('backend/criteria/v_add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->add()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 02:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 02:55:21 --> Error: Call to undefined function kode_oto()
+[Method: GET, Route: Backend/criteria/add]
+in APPPATH\Views\Backend\criteria\v_add.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/v_add', [], true)
+ 4 APPPATH\Controllers\Backend\Criteria.php(45): view('backend/criteria/v_add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->add()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 02:56:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:56:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:56:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 02:56:30 --> ErrorException: Undefined property: CodeIgniter\View\View::$session
+[Method: GET, Route: Backend/alternative/add]
+in APPPATH\Views\Backend\alternative\v_add.php on line 293.
+ 1 APPPATH\Views\Backend\alternative\v_add.php(293): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\alternative\\v_add.php', 293)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\alternative\\v_add.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/alternative/v_add', [], true)
+ 5 APPPATH\Controllers\Backend\Alternative.php(44): view('backend/alternative/v_add', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Alternative->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Alternative))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 02:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:57:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 02:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 02:57:46 --> Error: Call to undefined function kode_oto()
+[Method: GET, Route: Backend/criteria/add]
+in APPPATH\Views\Backend\criteria\v_add.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/v_add', [], true)
+ 4 APPPATH\Controllers\Backend\Criteria.php(45): view('backend/criteria/v_add', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->add()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 03:00:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 03:03:01 --> Error: Class "CI_Controller" not found
+[Method: GET, Route: Backend/system]
+in APPPATH\Controllers\Backend\System.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('Backend/system', 'GET')
+ 3 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('Backend/system')
+ 4 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('Backend/system')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 03:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:03:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 03:03:11 --> BadMethodCallException: Call to undefined method App\Models\Backend\CriteriaModel::getCriteria
+[Method: GET, Route: Backend/criteria/edit/C1]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Backend\Criteria.php(69): CodeIgniter\Model->__call('getCriteria', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->edit('C1')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 03:22:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 03:23:03 --> BadMethodCallException: Call to undefined method App\Models\Backend\CriteriaModel::getCriteria
+[Method: GET, Route: Backend/criteria/edit/C1]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Backend\Criteria.php(69): CodeIgniter\Model->__call('getCriteria', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->edit('C1')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 03:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 03:26:30 --> ErrorException: Attempt to read property "kode_criteria" on array
+[Method: GET, Route: Backend/criteria/edit/C1]
+in APPPATH\Views\Backend\criteria\v_edit.php on line 200.
+ 1 APPPATH\Views\Backend\criteria\v_edit.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "kode_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\criteria\\v_edit.php', 200)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\criteria\\v_edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/v_edit', [], true)
+ 5 APPPATH\Controllers\Backend\Criteria.php(73): view('backend/criteria/v_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->edit('C1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 03:27:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 03:27:53 --> ErrorException: Attempt to read property "nama_criteria" on array
+[Method: GET, Route: Backend/criteria/edit/C1]
+in APPPATH\Views\Backend\criteria\v_edit.php on line 206.
+ 1 APPPATH\Views\Backend\criteria\v_edit.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\criteria\\v_edit.php', 206)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\criteria\\v_edit.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/v_edit', [], true)
+ 5 APPPATH\Controllers\Backend\Criteria.php(73): view('backend/criteria/v_edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->edit('C1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 03:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 03:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:41:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:41:24 --> BadMethodCallException: Call to undefined method App\Models\Backend\CripsModel::get_crips
+[Method: GET, Route: Backend/crips/edit/505]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Backend\Crips.php(70): CodeIgniter\Model->__call('get_crips', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Crips->edit('505')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Crips))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:42:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:42:03 --> Error: Call to undefined function get_criteria_option()
+[Method: GET, Route: Backend/crips/edit/505]
+in APPPATH\Views\Backend\crips\v_edit.php on line 208.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/crips/v_edit', [], true)
+ 4 APPPATH\Controllers\Backend\Crips.php(74): view('backend/crips/v_edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Crips->edit('505')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Crips))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:43:34 --> ErrorException: Attempt to read property "kode_criteria" on array
+[Method: GET, Route: Backend/crips/edit/505]
+in APPPATH\Helpers\my_helper.php on line 344.
+ 1 APPPATH\Helpers\my_helper.php(344): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "kode_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Helpers\\my_helper.php', 344)
+ 2 APPPATH\Views\Backend\crips\v_edit.php(208): App\Helpers\get_criteria_option('C1')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\crips\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/crips/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Crips.php(74): view('backend/crips/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Crips->edit('505')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Crips))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:44:55 --> ErrorException: Attempt to read property "nama_criteria" on array
+[Method: GET, Route: Backend/crips/edit/505]
+in APPPATH\Helpers\my_helper.php on line 345.
+ 1 APPPATH\Helpers\my_helper.php(345): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Helpers\\my_helper.php', 345)
+ 2 APPPATH\Views\Backend\crips\v_edit.php(208): App\Helpers\get_criteria_option('C1')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\crips\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/crips/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Crips.php(74): view('backend/crips/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Crips->edit('505')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Crips))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:44:57 --> ErrorException: Attempt to read property "nama_criteria" on array
+[Method: GET, Route: Backend/crips/edit/505]
+in APPPATH\Helpers\my_helper.php on line 345.
+ 1 APPPATH\Helpers\my_helper.php(345): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Helpers\\my_helper.php', 345)
+ 2 APPPATH\Views\Backend\crips\v_edit.php(208): App\Helpers\get_criteria_option('C1')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\crips\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/crips/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Crips.php(74): view('backend/crips/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Crips->edit('505')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Crips))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 07:46:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:46:03 --> BadMethodCallException: Call to undefined method App\Models\Backend\RelationModel::get_relation
+[Method: GET, Route: backend/relation/edit/A01]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Controllers\Backend\Relation.php(54): CodeIgniter\Model->__call('get_relation', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:46:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:46:43 --> Error: Call to undefined function get_crips_option()
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Views\Backend\relation\v_edit.php on line 203.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 4 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:46:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:46:44 --> Error: Call to undefined function get_crips_option()
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Views\Backend\relation\v_edit.php on line 203.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 4 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:46:45 --> Error: Call to undefined function get_crips_option()
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Views\Backend\relation\v_edit.php on line 203.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 4 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:47:56 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Views\Backend\relation\v_edit.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 4 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:48:31 --> BadMethodCallException: Call to undefined method App\Models\Backend\CripsModel::get_crips_by_criteria
+[Method: GET, Route: backend/relation/edit/A01]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Helpers\my_helper.php(327): CodeIgniter\Model->__call('get_crips_by_criteria', [...])
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:48:44 --> BadMethodCallException: Call to undefined method App\Models\Backend\CripsModel::get_crips_by_criteria
+[Method: GET, Route: backend/relation/edit/A01]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Helpers\my_helper.php(327): CodeIgniter\Model->__call('get_crips_by_criteria', [...])
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:48:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:48:45 --> BadMethodCallException: Call to undefined method App\Models\Backend\CripsModel::get_crips_by_criteria
+[Method: GET, Route: backend/relation/edit/A01]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Helpers\my_helper.php(327): CodeIgniter\Model->__call('get_crips_by_criteria', [...])
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:49:00 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Views\Backend\relation\v_edit.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 4 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:49:16 --> BadMethodCallException: Call to undefined method App\Models\Backend\CripsModel::get_crips_by_criteria
+[Method: GET, Route: backend/relation/edit/A01]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Helpers\my_helper.php(327): CodeIgniter\Model->__call('get_crips_by_criteria', [...])
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:49:18 --> BadMethodCallException: Call to undefined method App\Models\Backend\CripsModel::get_crips_by_criteria
+[Method: GET, Route: backend/relation/edit/A01]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Helpers\my_helper.php(327): CodeIgniter\Model->__call('get_crips_by_criteria', [...])
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:50:01 --> Error: Call to undefined function get_crips_option()
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Views\Backend\relation\v_edit.php on line 203.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 4 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:50:10 --> BadMethodCallException: Call to undefined method App\Models\Backend\CripsModel::get_crips_by_criteria
+[Method: GET, Route: backend/relation/edit/A01]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Helpers\my_helper.php(327): CodeIgniter\Model->__call('get_crips_by_criteria', [...])
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:53:14 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Views\Backend\relation\v_edit.php on line 199.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 4 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:58:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:58:01 --> BadMethodCallException: Call to undefined method App\Models\Backend\CripsModel::get_crips_by_criteria
+[Method: GET, Route: backend/relation/edit/A01]
+in SYSTEMPATH\Model.php on line 932.
+ 1 APPPATH\Helpers\my_helper.php(327): CodeIgniter\Model->__call('get_crips_by_criteria', [...])
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:59:33 --> ErrorException: Attempt to read property "kode_crips" on array
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Helpers\my_helper.php on line 331.
+ 1 APPPATH\Helpers\my_helper.php(331): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "kode_crips" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Helpers\\my_helper.php', 331)
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 07:59:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 07:59:58 --> ErrorException: Attempt to read property "nama_crips" on array
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Helpers\my_helper.php on line 332.
+ 1 APPPATH\Helpers\my_helper.php(332): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_crips" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Helpers\\my_helper.php', 332)
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 08:00:00 --> ErrorException: Attempt to read property "nama_crips" on array
+[Method: GET, Route: backend/relation/edit/A01]
+in APPPATH\Helpers\my_helper.php on line 332.
+ 1 APPPATH\Helpers\my_helper.php(332): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_crips" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Helpers\\my_helper.php', 332)
+ 2 APPPATH\Views\Backend\relation\v_edit.php(203): App\Helpers\get_crips_option('C1', '507')
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\relation\\v_edit.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/relation/v_edit', [], true)
+ 6 APPPATH\Controllers\Backend\Relation.php(58): view('Backend/relation/v_edit', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Relation->edit('A01')
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Relation))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 08:00:36 --> ErrorException: Attempt to read property "kode_criteria" on array
+[Method: GET, Route: Backend/calculation/topsis_cetak]
+in APPPATH\Controllers\Backend\Calculation.php on line 108.
+ 1 APPPATH\Controllers\Backend\Calculation.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "kode_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Controllers\\Backend\\Calculation.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Calculation->topsis_cetak()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Calculation))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 08:00:57 --> ErrorException: Attempt to read property "kode_criteria" on array
+[Method: GET, Route: Backend/calculation/vikor_cetak]
+in APPPATH\Controllers\Backend\Calculation.php on line 130.
+ 1 APPPATH\Controllers\Backend\Calculation.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "kode_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Controllers\\Backend\\Calculation.php', 130)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Calculation->vikor_cetak()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Calculation))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 08:03:33 --> ErrorException: Attempt to read property "nama_criteria" on array
+[Method: GET, Route: Backend/calculation/vikor_cetak]
+in APPPATH\Views\Backend\methods\vikor_cetak.php on line 14.
+ 1 APPPATH\Views\Backend\methods\vikor_cetak.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\methods\\vikor_cetak.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\methods\\vikor_cetak.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/methods/vikor_cetak', [], true)
+ 5 APPPATH\Controllers\Backend\Calculation.php(137): view('Backend/methods/vikor_cetak', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Calculation->vikor_cetak()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Calculation))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:03:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 08:03:35 --> ErrorException: Attempt to read property "nama_criteria" on array
+[Method: GET, Route: Backend/calculation/vikor_cetak]
+in APPPATH\Views\Backend\methods\vikor_cetak.php on line 14.
+ 1 APPPATH\Views\Backend\methods\vikor_cetak.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\methods\\vikor_cetak.php', 14)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\methods\\vikor_cetak.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/methods/vikor_cetak', [], true)
+ 5 APPPATH\Controllers\Backend\Calculation.php(137): view('Backend/methods/vikor_cetak', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Calculation->vikor_cetak()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Calculation))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:04:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 08:04:50 --> Error: Call to undefined function query()
+[Method: GET, Route: Backend/calculation/vikor_cetak]
+in APPPATH\Views\Backend\methods\vikor_cetak.php on line 150.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/methods/vikor_cetak', [], true)
+ 4 APPPATH\Controllers\Backend\Calculation.php(137): view('Backend/methods/vikor_cetak', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Calculation->vikor_cetak()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Calculation))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:05:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:06:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 08:06:20 --> ErrorException: Attempt to read property "nama_criteria" on array
+[Method: GET, Route: Backend/calculation/topsis_cetak]
+in APPPATH\Views\Backend\methods\topsis_cetak.php on line 13.
+ 1 APPPATH\Views\Backend\methods\topsis_cetak.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\methods\\topsis_cetak.php', 13)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\methods\\topsis_cetak.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/methods/topsis_cetak', [], true)
+ 5 APPPATH\Controllers\Backend\Calculation.php(115): view('Backend/methods/topsis_cetak', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Calculation->topsis_cetak()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Calculation))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 08:06:42 --> ErrorException: Attempt to read property "bobot" on array
+[Method: GET, Route: Backend/calculation/topsis_cetak]
+in APPPATH\Views\Backend\methods\topsis_cetak.php on line 97.
+ 1 APPPATH\Views\Backend\methods\topsis_cetak.php(97): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "bobot" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\methods\\topsis_cetak.php', 97)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\methods\\topsis_cetak.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('Backend/methods/topsis_cetak', [], true)
+ 5 APPPATH\Controllers\Backend\Calculation.php(115): view('Backend/methods/topsis_cetak', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Calculation->topsis_cetak()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Calculation))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 08:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 08:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:02:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 12:03:11 --> Error: Class "CI_Controller" not found
+[Method: GET, Route: Backend/system]
+in APPPATH\Controllers\Backend\System.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('Backend/system', 'GET')
+ 3 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('Backend/system')
+ 4 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('Backend/system')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 12:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:03:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 12:03:22 --> ErrorException: Attempt to read property "kode_criteria" on array
+[Method: GET, Route: Backend/criteria/cetak]
+in APPPATH\Views\Backend\criteria\cetak.php on line 17.
+ 1 APPPATH\Views\Backend\criteria\cetak.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "kode_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\criteria\\cetak.php', 17)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\criteria\\cetak.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/cetak', [], true)
+ 5 APPPATH\Controllers\Backend\Criteria.php(97): view('backend/criteria/cetak', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->cetak()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 12:06:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:06:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:06:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 12:06:49 --> ErrorException: Attempt to read property "kode_criteria" on array
+[Method: GET, Route: Backend/criteria/cetak]
+in APPPATH\Views\Backend\criteria\cetak.php on line 17.
+ 1 APPPATH\Views\Backend\criteria\cetak.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "kode_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\criteria\\cetak.php', 17)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\criteria\\cetak.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/criteria/cetak', [], true)
+ 5 APPPATH\Helpers\my_helper.php(290): view('backend/criteria/cetak', [...])
+ 6 APPPATH\Controllers\Backend\Criteria.php(97): App\Helpers\view_cetak('backend/criteria/cetak', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Criteria->cetak()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Criteria))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 12:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 12:07:42 --> ErrorException: Attempt to read property "nama_criteria" on array
+[Method: GET, Route: Backend/crips/cetak]
+in APPPATH\Views\Backend\crips\cetak.php on line 16.
+ 1 APPPATH\Views\Backend\crips\cetak.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nama_criteria" on array', 'C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\crips\\cetak.php', 16)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\sipbs\\app\\Views\\Backend\\crips\\cetak.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('backend/crips/cetak', [], true)
+ 5 APPPATH\Helpers\my_helper.php(290): view('backend/crips/cetak', [...])
+ 6 APPPATH\Controllers\Backend\Crips.php(98): App\Helpers\view_cetak('backend/crips/cetak', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Backend\Crips->cetak()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Backend\Crips))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 12:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-27 12:09:20 --> Error: Class "CI_Controller" not found
+[Method: GET, Route: Backend/system]
+in APPPATH\Controllers\Backend\System.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(147): include_once()
+ 2 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('Backend/system', 'GET')
+ 3 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('Backend/system')
+ 4 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('Backend/system')
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\sipbs\\public\\index.php')
+INFO - 2024-10-27 12:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-27 12:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
