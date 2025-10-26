@@ -2,7 +2,7 @@
   <h3 align="center">SIPBS (Sistem Informasi Perangkingan Bank Sampah)</h3>
 </p>
 
-[![Resource ui][product-ui]](https://www.figma.com/design/VBYfRcltZWD9W5Nm0Ph4bj/SIPBS--Sistem-Informasi-Perangkingan-Bank-Sampah-?node-id=0-1&t=4CZjR8JisjFNCbST-1)
+[![Resource ui][product-ui]](https://www.figma.com/proto/VBYfRcltZWD9W5Nm0Ph4bj/SIPBS--Sistem-Informasi-Perangkingan-Bank-Sampah-?node-id=9-21&p=f&t=hRVr27IT5pwNHBfF-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 [product-ui]: Resource/preview/Preview.png
 
