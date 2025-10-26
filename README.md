@@ -3,7 +3,6 @@
 </p>
 
 [![Resource ui][product-ui]](https://www.figma.com/design/VBYfRcltZWD9W5Nm0Ph4bj/SIPBS--Sistem-Informasi-Perangkingan-Bank-Sampah-?node-id=0-1&t=4CZjR8JisjFNCbST-1)
-[![Resource ui][product-ui]](https://www.figma.com/design/VBYfRcltZWD9W5Nm0Ph4bj/SIPBS--Sistem-Informasi-Perangkingan-Bank-Sampah-?node-id=10-54&t=dul9nOLH3ZLK4gCs-1)
 
 [product-ui]: Resource/preview/Preview.png
 
